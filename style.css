@@ -1,0 +1,38 @@
+h1{
+    float: left;
+    font-size:20px
+}
+.rogo{
+    overflow: hidden;
+}
+nav{
+    background: #888888;
+    overflow: hidden;
+    margin-bottom:30px;
+}
+nav li{
+    float: left;
+    list-style-type: none;
+}
+nav a{
+    text-decoration: none;
+    border: none;
+    color: #fff;
+    border-radius: 0;
+    padding: 8px;
+    transition: 0.5s;
+}
+.car1{
+    width: 1200px;
+}
+.car2{
+    float: left;
+}
+.car3{
+    float: left;
+}
+.car4{
+    float: left;
+}
+
+    
